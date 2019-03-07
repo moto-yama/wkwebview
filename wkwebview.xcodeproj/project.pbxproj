@@ -65,7 +65,6 @@
 				04E418AC22309FB700B6BE59 /* AppDelegate.h */,
 				04E418AD22309FB700B6BE59 /* AppDelegate.m */,
 				04E418B522309FB800B6BE59 /* Assets.xcassets */,
-				75973A9422314EC1001FED5C /* img */,
 				04E418BA22309FB800B6BE59 /* Info.plist */,
 				04E418B722309FB800B6BE59 /* LaunchScreen.storyboard */,
 				04E418BB22309FB800B6BE59 /* main.m */,
@@ -81,13 +80,6 @@
 				75973A9222314BFE001FED5C /* WebKit.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		75973A9422314EC1001FED5C /* img */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = img;
 			sourceTree = "<group>";
 		};
 		75973A9522314F1A001FED5C /* view */ = {
